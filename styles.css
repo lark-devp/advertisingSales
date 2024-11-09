@@ -72,10 +72,9 @@ h2 {
     height: auto; /* Высота автоматически подстраивается */
     border-radius: 50%; /* Округляем углы для создания эффекта круга */
 }
-a {
-    
+.tgRef {
     color: #FFD700;
 }
-a:hover {
-    color: #FFFF00;
+.tgRef:hover {
+    color: #BDB76B;
 }
